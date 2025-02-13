@@ -1,0 +1,28 @@
+When plugged in and performing the relatively light coding tasks associated with a Caesar cipher project (including brute-forcing), your laptop's CPU temperature should ideally remain within a comfortable range. Here's a more detailed breakdown:
+
+Ideal Temperature Range (Plugged In):
+
+Idle/Light Activity (Just Coding): If you're just writing or reviewing the code, your CPU temperature should ideally be below 60°C (140°F). It might even be closer to 40-50°C (104-122°F).
+Moderate Activity (Brute-Force Running): During the brute-force attack, especially when the dictionary is loaded and the decryption attempts are being made, you might see a temporary increase. Ideally, this should still stay below 70-75°C (158-167°F). A brief spike slightly above this is usually nothing to worry about.
+Sustained Heavy Load (Unlikely): Even with a large dictionary and a long ciphertext, it's unlikely that this type of coding would constitute a "sustained heavy load." However, if for some reason your CPU is working harder than expected, try to keep the temperature below 80-85°C (176-185°F).
+Factors Affecting Temperature (Even Plugged In):
+
+Laptop Cooling System: The efficiency of your laptop's fans and heatsinks is a major factor.
+Ambient Temperature: A hot room will naturally make your laptop run warmer.
+Power Settings: When plugged in, your laptop might be in a "performance" mode that allows the CPU to run at higher clock speeds, which can generate more heat.
+Background Processes: Other programs running in the background can contribute to CPU load and temperature.   
+What to Watch For:
+
+Consistent High Temperatures: If your CPU consistently runs above 80°C (176°F) even during moderate tasks, it could indicate a problem with the cooling system or that your laptop's vents are blocked.
+Thermal Throttling: If your laptop starts to slow down noticeably during the brute-force attack, it might be due to thermal throttling (the system reducing performance to prevent overheating). This is a sign that the CPU is getting too hot.   
+Tips for Keeping Temperatures Down (Even Plugged In):
+
+Good Ventilation: Make sure your laptop has adequate airflow. Don't block the vents. A laptop stand can help.
+Cleanliness: Dust buildup can impede cooling. Clean your laptop's vents and fans regularly.   
+Cooling Pad: A cooling pad can provide extra airflow and help keep temperatures down.   
+Monitor Temperatures: Use monitoring software (like HWMonitor, Core Temp, or the built-in tools in your BIOS) to keep an eye on your CPU temperature.   
+Key Point: The Caesar cipher code itself is very lightweight.  Even with the brute-force attack, it's unlikely to cause significant temperature increases.  If you're seeing high temperatures, it's more likely due to other factors (cooling system, ambient temperature, background processes).
+
+
+
+Sources and related content
